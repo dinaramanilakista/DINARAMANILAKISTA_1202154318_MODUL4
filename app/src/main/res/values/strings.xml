@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DINAR AMANI LAKISTA_1202154318_MODUL4</string>
+    <string-array name="namaMhs">
+        <item>Danen</item>
+        <item>Reza Bastian</item>
+        <item>Rania putri</item>
+        <item>Dinar Amani</item>
+        <item>ihksan </item>
+        <item>Tondi</item>
+        <item>Dani</item>
+        <item>Malika Aulia</item>
+        <item>Fatur</item>
+        <item>Ira</item>
+        <item>Aulia</item>
+        <item>Nanda</item>
+        <item>imam</item>
+
+    </string-array>
+</resources>
+
+
+
